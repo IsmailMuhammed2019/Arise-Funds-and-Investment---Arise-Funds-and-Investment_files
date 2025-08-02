@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
+
 
 const steps = [
   {
@@ -145,7 +145,7 @@ export default function ApplicationSection() {
             <div className="mt-8 bg-blue-600 rounded-xl p-6 text-white">
               <h4 className="text-xl font-bold mb-3">Ready to Apply?</h4>
               <p className="text-blue-100 mb-4">
-                This process is integrated with TrainingSol's registration and Kallmania's placement systems.
+                This process is integrated with TrainingSol&apos;s registration and Kallmania&apos;s placement systems.
               </p>
               <button className="bg-white text-blue-600 px-6 py-2 rounded-lg font-semibold hover:bg-gray-100 transition-colors duration-200">
                 Start Application
@@ -161,7 +161,7 @@ export default function ApplicationSection() {
               Integrated Process
             </h3>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Our application process seamlessly integrates with TrainingSol's registration and Kallmania's placement systems for a smooth experience.
+              Our application process seamlessly integrates with TrainingSol&apos;s registration and Kallmania&apos;s placement systems for a smooth experience.
             </p>
           </div>
           

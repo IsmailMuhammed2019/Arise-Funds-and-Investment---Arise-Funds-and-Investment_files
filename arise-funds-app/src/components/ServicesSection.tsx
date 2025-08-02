@@ -70,7 +70,7 @@ export default function ServicesSection() {
 
         {/* Services Grid */}
         <div className="grid lg:grid-cols-2 gap-8">
-          {services.map((service, index) => (
+          {services.map((service) => (
             <div key={service.id} className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
               <div className="grid lg:grid-cols-2">
                 {/* Content */}

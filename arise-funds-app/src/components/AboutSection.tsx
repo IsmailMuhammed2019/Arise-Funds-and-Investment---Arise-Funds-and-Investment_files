@@ -22,14 +22,21 @@ export default function AboutSection() {
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-3">Our Mission</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  To drive inclusive access to education, provide financial tools that unlock opportunity, and empower students to transition successfully into the global workforce.
+                  To drive inclusive access to education, provide financial tools that unlock opportunity, and empower students to transition successfully into the global workforce. We believe that every African student deserves the chance to pursue their dreams without financial barriers.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-3">Our Vision</h3>
+                <p className="text-gray-600 leading-relaxed">
+                  To become the leading platform for student financing and career development in Africa, connecting talented individuals with world-class opportunities in the global job market.
                 </p>
               </div>
 
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-3">Our Strategy</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  We leverage partnerships, capital flows, and data insights to build an ecosystem where students don't just study—they succeed.
+                  We leverage strategic partnerships, innovative capital flows, and data-driven insights to build an ecosystem where students don&apos;t just study—they succeed. Our integrated approach combines financial support with comprehensive career guidance and job placement services.
                 </p>
               </div>
             </div>

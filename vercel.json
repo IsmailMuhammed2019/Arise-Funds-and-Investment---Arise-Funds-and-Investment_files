@@ -1,0 +1,7 @@
+{
+  "rootDirectory": "arise-funds-app",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "framework": "nextjs"
+} 

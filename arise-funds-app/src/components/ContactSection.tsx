@@ -44,7 +44,7 @@ export default function ContactSection() {
               <CardHeader>
                 <CardTitle className="text-2xl font-bold text-blue-600">Get In Touch</CardTitle>
                 <CardDescription>
-                  We're here to help you achieve your educational and career goals.
+                                           We&apos;re here to help you achieve your educational and career goals.
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-6">
@@ -119,7 +119,7 @@ export default function ContactSection() {
               <CardHeader>
                 <CardTitle className="text-2xl font-bold text-gray-900">Send Us a Message</CardTitle>
                 <CardDescription>
-                  Fill out the form below and we'll get back to you as soon as possible.
+                  Fill out the form below and we&apos;ll get back to you as soon as possible.
                 </CardDescription>
               </CardHeader>
               <CardContent>
